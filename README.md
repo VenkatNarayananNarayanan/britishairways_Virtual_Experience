@@ -17,7 +17,14 @@ Task 2:
 
 Explore and prepare the dataset :
 
+First, I spent some time exploring the given customer booking dataset in the Jupyter Notebook to understand the different columns and some basic statistics of the dataset. Then,  I prepared the dataset for a predictive model. I looked into the dataset to find out where there is any need for new features I want to create in order to make the model even better.
+
 Train a machine learning model:
 
-Evaluate model and present findings:
+After my data is ready for modeling, I trained a machine learning model to be able to predict the target outcome, which is a customer making a booking. For this task, I used an algorithm that easily allows you to output information about how each variable within the model contributes to its predictive power. where I experimented with three algorithms which are Support Vector Machine, Logistic Regression, and Random Forest Classifier. By comparing all the algorithms a RandomForest is very good for this purpose.
+
+
+Evaluate the model and present findings:
+
+After training the model, I evaluated the model how well it performed by conducting cross-validation and outputting appropriate evaluation metrics(accuracy_score,f1 score, precision score, and recall score). Furthermore, I created a visualisation to interpret how each variable contributed to the model. Finally, I summarised the findings in a single slide and I included all visualisations and metrics within this slide, as well as clear and concise explanations in order to quickly provide the key points from my analysis.
 

@@ -1,0 +1,3 @@
+Web Scraping : https://pypi.org/project/beautifulsoup4/
+Data Manipulation : https://pandas.pydata.org/
+Data Visualisation : https://matplotlib.org/

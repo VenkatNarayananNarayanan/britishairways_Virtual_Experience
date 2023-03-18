@@ -1,0 +1,4 @@
+Machine learning in python :
+https://scikit-learn.org/stable/supervised_learning.html
+
+Evaluation matrics :https://scikit-learn.org/stable/modules/model_evaluation.html

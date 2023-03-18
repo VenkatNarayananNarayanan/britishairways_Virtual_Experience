@@ -1,5 +1,3 @@
-I Completed British Airways'Data Science Virtual Experience Programme' at Forage, where I learned about web scraping, text, and sentiment analysis on a real-world dataset and developed a predictive model. It was a great experience to get some insights into what interns at BA may work on in relation to #dataanalysis, model creation, and insight generation. During this program, I had the opportunity to work on two interesting tasks.
-
 
 Task 1 :
 
@@ -23,6 +21,3 @@ Train a machine learning model:
 
 Evaluate model and present findings:
 
-If you're interested in checking my work, you can find the link at https://lnkd.in/gvAkfDQu. Overall, it was a great learning experience, and I'm excited to apply the knowledge and skills gained in future data science projects.
-
-#machinelearning #datascience #python #britishairways #Forage
